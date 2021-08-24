@@ -1,3 +1,2 @@
-# <html><link href="http://j3d118161.rf.gd">Web Portofolio</link></html>
-<html><link href="http://j3d118161.rf.gd">Web Portofolio</link></html>
+# [Web Portofolio](http://j3d118161.rf.gd)
 Oktaviandra Putra Editya's Portofolio
